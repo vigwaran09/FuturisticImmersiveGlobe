@@ -1,0 +1,377 @@
+[
+  {
+    "name": "North America",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "category": "Continent",
+    "color": "#4C9EEB",
+    "children": [
+      {
+        "name": "United States",
+        "lat": 37.0902,
+        "lon": -95.7129,
+        "category": "Country",
+        "color": "#3D8BF4",
+        "children": [
+          {
+            "name": "New York City",
+            "lat": 40.7128,
+            "lon": -74.0060,
+            "category": "City",
+            "color": "#34E4EA",
+            "chartData": [75, 68, 81, 90, 78]
+          },
+          {
+            "name": "Los Angeles",
+            "lat": 34.0522,
+            "lon": -118.2437,
+            "category": "City",
+            "color": "#34E4EA",
+            "chartData": [60, 74, 85, 72, 69]
+          },
+          {
+            "name": "Chicago",
+            "lat": 41.8781,
+            "lon": -87.6298,
+            "category": "City",
+            "color": "#34E4EA",
+            "chartData": [88, 81, 79, 85, 90]
+          }
+        ]
+      },
+      {
+        "name": "Canada",
+        "lat": 43.6532,
+        "lon": -79.3832,
+        "category": "Country",
+        "color": "#53D3CA",
+        "children": [
+          {
+            "name": "Toronto",
+            "lat": 43.6532,
+            "lon": -79.3832,
+            "category": "City",
+            "color": "#33E9A2",
+            "chartData": [91, 87, 85, 93, 89]
+          },
+          {
+            "name": "Vancouver",
+            "lat": 49.2827,
+            "lon": -123.1207,
+            "category": "City",
+            "color": "#33E9A2",
+            "chartData": [77, 82, 84, 80, 75]
+          },
+          {
+            "name": "Montreal",
+            "lat": 45.5017,
+            "lon": -73.5673,
+            "category": "City",
+            "color": "#33E9A2",
+            "chartData": [70, 75, 72, 73, 77]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Europe",
+    "lat": 54.5260,
+    "lon": 15.2551,
+    "category": "Continent",
+    "color": "#B852ED",
+    "children": [
+      {
+        "name": "France",
+        "lat": 46.6034,
+        "lon": 1.8883,
+        "category": "Country",
+        "color": "#C274F5",
+        "children": [
+          {
+            "name": "Paris",
+            "lat": 48.8566,
+            "lon": 2.3522,
+            "category": "City",
+            "color": "#8BE8E5",
+            "chartData": [80, 90, 75, 85, 70]
+          },
+          {
+            "name": "Lyon",
+            "lat": 45.7640,
+            "lon": 4.8357,
+            "category": "City",
+            "color": "#8BE8E5",
+            "chartData": [60, 65, 68, 64, 62]
+          },
+          {
+            "name": "Marseille",
+            "lat": 43.2965,
+            "lon": 5.3698,
+            "category": "City",
+            "color": "#8BE8E5",
+            "chartData": [55, 59, 62, 61, 57]
+          }
+        ]
+      },
+      {
+        "name": "Germany",
+        "lat": 51.1657,
+        "lon": 10.4515,
+        "category": "Country",
+        "color": "#FF79B0",
+        "children": [
+          {
+            "name": "Berlin",
+            "lat": 52.5200,
+            "lon": 13.4050,
+            "category": "City",
+            "color": "#FFB3C6",
+            "chartData": [77, 74, 79, 82, 80]
+          },
+          {
+            "name": "Munich",
+            "lat": 48.1351,
+            "lon": 11.5820,
+            "category": "City",
+            "color": "#FFB3C6",
+            "chartData": [69, 73, 76, 70, 74]
+          },
+          {
+            "name": "Frankfurt",
+            "lat": 50.1109,
+            "lon": 8.6821,
+            "category": "City",
+            "color": "#FFB3C6",
+            "chartData": [71, 72, 70, 73, 71]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Asia",
+    "lat": 34.0479,
+    "lon": 100.6197,
+    "category": "Continent",
+    "color": "#3BC454",
+    "children": [
+      {
+        "name": "China",
+        "lat": 35.8617,
+        "lon": 104.1954,
+        "category": "Country",
+        "color": "#48C9B0",
+        "children": [
+          {
+            "name": "Beijing",
+            "lat": 39.9042,
+            "lon": 116.4074,
+            "category": "City",
+            "color": "#4DC5F9",
+            "chartData": [92, 95, 89, 91, 94]
+          },
+          {
+            "name": "Shanghai",
+            "lat": 31.2304,
+            "lon": 121.4737,
+            "category": "City",
+            "color": "#4DC5F9",
+            "chartData": [89, 85, 87, 88, 86]
+          },
+          {
+            "name": "Guangzhou",
+            "lat": 23.1291,
+            "lon": 113.2644,
+            "category": "City",
+            "color": "#4DC5F9",
+            "chartData": [80, 79, 78, 82, 81]
+          }
+        ]
+      },
+      {
+        "name": "India",
+        "lat": 20.5937,
+        "lon": 78.9629,
+        "category": "Country",
+        "color": "#D1CB5A",
+        "children": [
+          {
+            "name": "Delhi",
+            "lat": 28.7041,
+            "lon": 77.1025,
+            "category": "City",
+            "color": "#F8C471",
+            "chartData": [83, 85, 80, 81, 84]
+          },
+          {
+            "name": "Mumbai",
+            "lat": 19.0760,
+            "lon": 72.8777,
+            "category": "City",
+            "color": "#F8C471",
+            "chartData": [74, 76, 75, 72, 73]
+          },
+          {
+            "name": "Bangalore",
+            "lat": 12.9716,
+            "lon": 77.5946,
+            "category": "City",
+            "color": "#F8C471",
+            "chartData": [69, 72, 70, 68, 71]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Africa",
+    "lat": 1.6508,
+    "lon": 17.6871,
+    "category": "Continent",
+    "color": "#F2B33D",
+    "children": [
+      {
+        "name": "Nigeria",
+        "lat": 9.0820,
+        "lon": 8.6753,
+        "category": "Country",
+        "color": "#DA4D4D",
+        "children": [
+          {
+            "name": "Lagos",
+            "lat": 6.5244,
+            "lon": 3.3792,
+            "category": "City",
+            "color": "#E77F67",
+            "chartData": [59, 64, 61, 60, 65]
+          },
+          {
+            "name": "Abuja",
+            "lat": 9.0765,
+            "lon": 7.3986,
+            "category": "City",
+            "color": "#E77F67",
+            "chartData": [55, 59, 60, 62, 58]
+          },
+          {
+            "name": "Kano",
+            "lat": 12.0022,
+            "lon": 8.5919,
+            "category": "City",
+            "color": "#E77F67",
+            "chartData": [53, 56, 54, 55, 57]
+          }
+        ]
+      },
+      {
+        "name": "South Africa",
+        "lat": -30.5595,
+        "lon": 22.9375,
+        "category": "Country",
+        "color": "#BDB76B",
+        "children": [
+          {
+            "name": "Johannesburg",
+            "lat": -26.2041,
+            "lon": 28.0473,
+            "category": "City",
+            "color": "#F1C40F",
+            "chartData": [69, 68, 72, 70, 71]
+          },
+          {
+            "name": "Cape Town",
+            "lat": -33.9249,
+            "lon": 18.4241,
+            "category": "City",
+            "color": "#F1C40F",
+            "chartData": [60, 65, 62, 64, 61]
+          },
+          {
+            "name": "Durban",
+            "lat": -29.8587,
+            "lon": 31.0218,
+            "category": "City",
+            "color": "#F1C40F",
+            "chartData": [58, 61, 60, 62, 59]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Australia",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "category": "Continent",
+    "color": "#78C2AD",
+    "children": [
+      {
+        "name": "Australia",
+        "lat": -33.8688,
+        "lon": 151.2093,
+        "category": "Country",
+        "color": "#5F9EA0",
+        "children": [
+          {
+            "name": "Sydney",
+            "lat": -33.8688,
+            "lon": 151.2093,
+            "category": "City",
+            "color": "#C7ECEE",
+            "chartData": [82, 85, 80, 84, 81]
+          },
+          {
+            "name": "Melbourne",
+            "lat": -37.8136,
+            "lon": 144.9631,
+            "category": "City",
+            "color": "#C7ECEE",
+            "chartData": [78, 77, 79, 75, 80]
+          },
+          {
+            "name": "Brisbane",
+            "lat": -27.4698,
+            "lon": 153.0251,
+            "category": "City",
+            "color": "#C7ECEE",
+            "chartData": [72, 74, 73, 75, 70]
+          }
+        ]
+      },
+      {
+        "name": "New Zealand",
+        "lat": -40.9006,
+        "lon": 174.8860,
+        "category": "Country",
+        "color": "#2980B9",
+        "children": [
+          {
+            "name": "Auckland",
+            "lat": -36.8485,
+            "lon": 174.7633,
+            "category": "City",
+            "color": "#85C1E9",
+            "chartData": [70, 69, 68, 71, 72]
+          },
+          {
+            "name": "Wellington",
+            "lat": -41.2865,
+            "lon": 174.7762,
+            "category": "City",
+            "color": "#85C1E9",
+            "chartData": [65, 67, 66, 68, 64]
+          },
+          {
+            "name": "Christchurch",
+            "lat": -43.5321,
+            "lon": 172.6362,
+            "category": "City",
+            "color": "#85C1E9",
+            "chartData": [60, 61, 63, 62, 64]
+          }
+        ]
+      }
+    ]
+  }
+]
